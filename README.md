@@ -10,7 +10,7 @@ The **Prescription and Medication Management Tool** is a web-based application t
 
 ## 🌐 Deployed Application
 
-- **Frontend:** [Live Demo](https://marvelous-froyo-1958b7.netlify.app/)
+- **Frontend:** [Live Demo](https://medical-prescription-tool.netlify.app/)
 
 ---
 
